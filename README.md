@@ -68,7 +68,7 @@ Aplikasi web penjualan produk Handphone dengan sistem login, transaksi, dan ulas
 1.  Login sebagai Admin / Member:
     - Admin: [ojanksite/admin/login.php](https://ojankphone.site/admin/login.php)
     Username: admin
-    Password: admin123
+    Password: 123
 
     - Member: https://ojankphone.site/member/index.php
     (Bisa daftar akun terlebih dahulu)
