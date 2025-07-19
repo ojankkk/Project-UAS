@@ -66,11 +66,11 @@ Aplikasi web penjualan produk Handphone dengan sistem login, transaksi, dan ulas
 
 ## 📚 Cara Menggunakan Aplikasi
 1.  Login sebagai Admin / Member:
-    - Admin: ojanksite/admin/login.php
+    - Admin: [ojanksite/admin/login.php](https://ojankphone.site/admin/login.php)
     Username: admin
     Password: admin123
 
-    - Member: ojankphone.site
+    - Member: https://ojankphone.site/member/index.php
     (Bisa daftar akun terlebih dahulu)
 2.  Navigasi Fitur:
     Admin bisa: melihat & tambah produk, lihat log stok, lihat ulasan, kelola admin
